@@ -1,6 +1,6 @@
 # idk an image that send telegram bot message when mc login
 
-```docker-compose
+```yml
 mc-access-log:
   image: "toto04/mc-access-log:latest"
   container_name: "mc-access-log"
