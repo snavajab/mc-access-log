@@ -1,0 +1,6 @@
+# .gitignore for typescript project
+node_modules
+dist
+.env
+.vscode
+file.log
